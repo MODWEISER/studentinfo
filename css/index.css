@@ -1,0 +1,32 @@
+#h1Title{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 32px;
+
+}
+#divTitle{
+    border:2px dashed #ffffff;
+}
+h3{
+    font-family: 'Source Code Pro', monospace;
+    font-size: 25px;
+}
+ul{
+    font-family: 'Coda', cursive;
+    font-size:20px ;
+}
+#form{
+    font-family: 'Coda', cursive;
+    font-size:15px ;
+}
+#email-signUp{
+    font-family: 'Coda', cursive;
+    font-size:18px ;
+}
+#password-signUp{
+    font-family: 'Coda', cursive;
+    font-size:18px ;
+}
+#row{
+    font-family: 'Prompt', sans-serif;
+    font-size: 16px;
+}
